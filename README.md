@@ -43,9 +43,7 @@ But unlike what how most starter tutorials use a servo with the HC05 to sweep sc
 
 ## Videos:
 - https://drive.google.com/drive/folders/11dgoV21HWf5E9fK-chv-nsAKugPyqb16?usp=drive_link
-## Status
-Power supply issue being resolved (Li-ion charger arriving June 4).
-Demo video coming soon.
+
 
 ## Built by
 Mohd Altaaf | Pre-DTU ECE | June 2026
