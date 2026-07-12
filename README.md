@@ -1,6 +1,6 @@
 # Obstacle-Avoidance Robot
 ## Why?: 
-So it started a month ago (ealry june), since my college course is going to be B.Tech in Electronics and communication engineering, i though i should get familiar with electronics✨.
+So it started a month ago (early june), since my college course is going to be B.Tech in Electronics and communication engineering, i though i should get familiar with electronics✨.
 This seemed to be the simple enough for my first project, but i didnt and still dont have money to buy components, so i just tried to make do with whatever i could find in my school lab (severely underfunded).
 
 ## What it does
