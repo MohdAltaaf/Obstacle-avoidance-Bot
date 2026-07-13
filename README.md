@@ -41,6 +41,8 @@ But unlike what how most starter tutorials use a servo with the HC05 to sweep sc
 - Learnt how to make do with the stuff I have on myself.
 - This got me started in electronics so i'd say it was a very useful experience.
 
+# Note to reviewer: 
+this project doesnt have time tracked with hackatime, ive written the time spent in the journal though, so please count that ♥
 ## Videos:
 - https://drive.google.com/drive/folders/11dgoV21HWf5E9fK-chv-nsAKugPyqb16?usp=drive_link
 
