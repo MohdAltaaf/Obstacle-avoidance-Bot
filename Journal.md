@@ -17,3 +17,9 @@
 - <img width="522" height="914" alt="backshot" src="https://github.com/user-attachments/assets/222690f9-bcc6-4199-be05-4d4638fd396e" />
 - Finally its done!
 <img width="1242" height="2208" alt="image" src="https://github.com/user-attachments/assets/59de1fa2-72da-41bb-971d-5d8a4885db1f" />
+# July 13:
+- Made a 1:1 CAD model of the actual built robot (2 hours)
+- <img width="968" height="593" alt="image" src="https://github.com/user-attachments/assets/f501238d-4077-41d1-9f08-0ab292bf9933" />
+- <img width="1600" height="753" alt="image" src="https://github.com/user-attachments/assets/956e139a-03d7-4115-b207-8d8bce034ed2" />
+-Submitting for Rerivew now.
+
